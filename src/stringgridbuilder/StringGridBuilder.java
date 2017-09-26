@@ -1,3 +1,5 @@
+package stringgridbuilder;
+
 /**
  * StringGridBuilder holds a list of 2d strings and returns 1 big 2d string
  */
