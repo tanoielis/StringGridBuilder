@@ -6,6 +6,7 @@ A StringGridBuilder can be used to easily combine multiple 2d char arrays to cre
 
 # Example usage:
 
+
 public StringGrid() {
     StringGridBuilder sgb = new StringGridBuilder(2, 2);
    
