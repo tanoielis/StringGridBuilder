@@ -35,12 +35,13 @@ public StringGrid() {
     
     System.out.println(sgb.toString());
 }
-'''
+```
 # OUTPUT
-
+```
 aaabbb
 aaabbb
 aaabbb
 aaaccc
 aaaccc
 aaaccc
+```
