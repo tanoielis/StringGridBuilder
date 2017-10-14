@@ -6,7 +6,7 @@ A StringGridBuilder can be used to easily combine multiple 2d char arrays to cre
 
 # Example usage:
 
-
+```java
 public StringGrid() {
     StringGridBuilder sgb = new StringGridBuilder(2, 2);
    
@@ -35,7 +35,7 @@ public StringGrid() {
     
     System.out.println(sgb.toString());
 }
-
+'''
 # OUTPUT
 
 aaabbb
